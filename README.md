@@ -1,16 +1,22 @@
-## Hi there 👋
+<div align="center">
+  <h1>My Profile</h1>
+  <p>
+    President of a company specializing in setting up, managing, maintaining and securing network infrastructures, as well as developing websites and games.
+  </p>
+</div>
 
-<!--
-**Novyrax/Novyrax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novyrax&theme=nord_bright)
+</div>
+<br>
+<h1 align="left">About me</h1>
+<p align="left">
+  <a href="https://discord.com" target="blank">
+    <img align="center" src="https://zupimages.net/up/25/11/b6fu.png" alt="discord" height="100" width="200" />
+  </a>
+  &nbsp;
+  <br>  
+  <br>
+My name is Valentin, I'm 20 and I'm a Game & Web developer and Network Administrator. I run a company specializing in setting up, managing, maintaining and securing network infrastructures, as well as web & game development. We also offer server rentals for data hosting, game servers and applications. 
+</p>
